@@ -1,5 +1,3 @@
-# task7-netdata-monitoring
-System monitoring using Netdata and Docker on Amazon Linux EC2
 # Task 7: Monitor System Resources Using Netdata
 
 ## 🛠 Objective:
