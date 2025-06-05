@@ -15,7 +15,7 @@ Install Netdata using Docker on an EC2 instance and visualize system performance
      netdata/netdata
 
 Accessed dashboard at:
-http://<your-ec2-ip>:19999
+http://107.22.134.16:19999/
 
 📊 Features Monitored:
 CPU usage
